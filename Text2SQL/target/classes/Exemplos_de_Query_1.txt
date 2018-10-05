@@ -1,0 +1,266 @@
+companies
+show companies
+show 5 companies
+show companies where name is Google
+show company which name is Google
+show companies name Google
+show company name Google
+show startups
+show 5 startups
+show startups where name is Google
+show startup which name is Google
+show startups name Google
+show startup name Google
+show companies where city is Mountain View
+show companies which city is Mountain View
+show company which city is Mountain View
+show companies city Mountain View
+show company city Mountain View
+show companies where city is Cupertino
+show companies which city is Cupertino
+show company which city is Cupertino
+show companies city Cupertino
+show company city Cupertino
+list companies based in cupertino
+show companies from Mountain View
+show company from Mountain View
+show companies from Cupertino
+show company from Cupertino
+show companies in Mountain View
+show company in Mountain View
+show companies in Cupertino
+show company in Cupertino
+show companies where founded year is 1998
+show companies which founded year is 1998
+show company which founded year is 1998
+show companies founded year 1998
+show company founded year 1998
+show company which was founded in 1998
+show companies where opened year is 1998
+show companies which opened year is 1998
+show company which opened year is 1998
+show companies opened year 1998
+show company opened year 1998
+show company which was opened in 1998
+show companies where founded year is after 2015
+show companies where founded year after 2015
+show companies which founded year is after 2015
+show companies which founded year after 2015
+show company which founded year is after 2015
+show companies founded year after 2015
+show company founded year after 2015
+show companies after 2015
+show companies where founded year is before 1850
+show companies where founded year before 1850
+show companies which founded year is before 1850
+show companies which founded year before 1850
+show company which founded year is before 1850
+show companies founded year before 1850
+show company founded year before 1850
+show companies before 1850
+show companies founded earlier 1850
+show companies where raised is 103200000
+show companies which raised 103200000
+show company which raised 103200000
+show companies raised 103200000
+show company raised 103200000
+show companies where funding is 103200000
+show companies which funding 103200000
+show company which funding 103200000
+show companies funding 103200000
+show company funding 103200000
+show companies where raised is more 103200000
+show companies where raised more 103200000
+show companies which raised is more 103200000
+show companies which raised more 103200000
+show companies who raised more 103200000
+show companies whose raised more 103200000
+show company which raised is more 103200000
+show companies raised more 103200000
+show company raised more 103200000
+show companies where raised is > 103200000
+show companies where raised > 103200000
+show companies which raised is > 103200000
+show companies which raised > 103200000
+show companies who raised > 103200000
+show company which raised is > 103200000
+show companies raised > 103200000
+show company raised > 103200000
+show companies where raised is greater 103200000
+show companies where raised greater 103200000
+show companies which raised is greater 103200000
+show companies which raised greater 103200000
+show companies who raised greater 103200000
+show company which raised is greater 103200000
+show companies raised greater 103200000
+show company raised greater 103200000
+show companies where raised is greater than 103200000
+show companies where raised greater than 103200000
+show companies which raised is greater than 103200000
+show companies which raised greater than 103200000
+show companies who raised greater than 103200000
+show company which raised is greater than 103200000
+show companies raised greater than 103200000
+show company raised greater than 103200000
+show companies where raised is bigger 103200000
+show companies where raised bigger 103200000
+show companies which raised is bigger 103200000
+show companies which raised bigger 103200000
+show companies who raised bigger 103200000
+show company which raised is bigger 103200000
+show companies raised bigger 103200000
+show company raised bigger 103200000
+show companies where raised is smaller 100000
+show companies where raised smaller 100000
+show companies which raised is smaller 100000
+show companies which raised smaller 100000
+show companies who raised smaller 100000
+show company which raised is smaller 100000
+show companies raised smaller 100000
+show company raised smaller 100000
+show companies where raised is less 100000
+show companies where raised less 100000
+show companies which raised is less 100000
+show companies which raised less 100000
+show companies who raised less 100000
+show company which raised is less 100000
+show companies raised less 100000
+show company raised less 100000
+show companies where raised is < 100000
+show companies where raised < 100000
+show companies which raised is < 100000
+show companies which raised < 100000
+show companies who raised < 100000
+show company which raised is < 100000
+show companies raised < 100000
+show company raised < 100000
+show company raised more 1696100K
+show company raised more 1696100k
+show company raised more 1696.1M
+show company raised more 1696.1KK
+show company raised more 1696.1kk
+show company raised more 1.6961B
+show company raised more 1.6961b
+show company raised more 1696100 K
+show company raised more 1696100 k
+show company raised more 1696.1 M
+show company raised more 1696.1 KK
+show company raised more 1696.1 kk
+show company raised more 1.6961 B
+show company raised more 1.6961 b
+show companies where employees is 10001
+show companies which employees are 10001
+show company which employees are 10001
+show companies employees are 10001
+show company employees 10001
+show companies where market is Internet
+show companies which market is Internet
+show company which market is Internet
+show companies market is Internet
+show company market Internet
+show companies where market is ecommerce
+show companies which market is ecommerce
+show company which market is ecommerce
+show companies market is ecommerce
+show company market ecommerce
+show companies where market is Ecommerce
+show companies which market is Ecommerce
+show company which market is Ecommerce
+show companies market is Ecommerce
+show company market Ecommerce
+companies with more than 50 employees from boston
+show companies founded in 2015 from boston
+show companies opened in 2015 from boston
+show companies from New York
+show companies from NY
+show companies from NYC
+show companies where opened year is not 1998
+what is best company?
+companies founded between 2012 and 2016
+companies with under 5 employees
+show me companies with at least 300 employees
+show me companies with at most 10 employees
+company from New york with funding 6 million
+show companies named practo
+show companies which are built after 2009 and city is Menlo Park
+what companies started in 1999
+show companies that raised more than 1b
+show me companies that have more than 5m in funding
+show companies WITH above 100000 raised THAT WERE FOUNDED IN 2015
+i want to see a companies from usa
+show companies with funding is less 80m by funding
+find companies from New York founded not after 2010
+show startups with more than 1 million of funding
+show companies that raised more than a billion dollars in funding
+show companies which founded year is 2015 with more than 20 employees
+show companies from Boston with funding more than 20M
+show companies from Boston raised more than 200M
+find companies where name not includes f
+show companies in palo alto
+show companies in palo alto city
+show companies whose city is Null
+show companies name Byju's
+show companies which were founded in 2014 and raised more than a million dollars
+show companies which were founded in 2014 and raised 1000000
+show companies with 4 founders
+show company with less then 20 employees or founded before  2001
+show company with less then 20 employees and founded after 2001
+show company with less then 20 employees and founded before 2001
+show company with less then 20 employees or companies founded before 2001
+show company with less then 20 employees or founded before 2001
+show company with less than 20 employees or founded before 2001
+show company which raised a little more than $10000000000
+show companies where city is London above 100000000 raised
+companies from New York with more of 10 employees
+show 10 companies from chicago that have more than 10 employees
+find companies founded in 2015 and raised more than 20M
+find companies from New York with employees more than 4
+find companies from New York where employes more than 4
+show all companies which name starts from ne and which are situated in nyc
+show companies with over $1,000 in funding
+show companies with funding over $10,000
+show companies that started in Austin
+show company with 100K funding
+show companies from Boston started in 2013
+find companies from New York with Employees four
+show companies founded in London and started in 2012
+list of 5 companies
+show companies founded prior to 1850
+find companies between 2 and 4 employees
+companies with 10 people
+companies which were founded last year
+companies from New York which were founded after 2012
+show companies where city is new_york where were founded above 2010 and raised above 140000000
+show companies from New York where funding is above 5M
+show companies who are in sunnyvale
+show companies who have more than 10000 employees
+show companies in Finance market
+companies from saas market
+companies with less than 40 employees or more than 60 employees
+find companies launched after 2015 and named friendlydata
+find companies launched after 2015 and called friendlydata
+show me companies that have more than $80 in funding
+show companies where employees are null
+show companies where city includes osto
+show companies from sf
+show companies from la
+show companies from uk
+show company which located at Seattle
+show company which has greater than 1001 employees
+show company which has more than 1001 employees
+show company which has more than 1000 employees
+find companies from New York founded after 2010 with 5 employees
+show companies from SF
+show companies from LA founded in 2014
+find companies markets is Internet
+show companies which are built not before 2009 and city is Menlo Park
+show companies from boston founded after 2015
+show companies with name started with "F"
+show companies with name containing F
+show companies with more than 5000 employees
+companies from saas market
+show companies in Finance market
+show companies in transportation market
+show companies in california that make software
+companies founded before 2015 in the insurance market
+
